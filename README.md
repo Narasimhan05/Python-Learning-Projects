@@ -1,4 +1,4 @@
-### Python Projects
+# Python Projects
 
 1) Calculator
 2) Email Separation
@@ -7,38 +7,35 @@
 5) Timer
 6) Compound Interest
 
-## Setup & Installation
-
-Make sure you have the latest version of Python installed.
-
-```bash
-git clone <repo-url>
-```
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Running The App
 
 ```bash
 python main.py
 ```
 
-## Viewing The App
+## Requirements
 
-Go to `http://127.0.0.1:5000`
+To run this project, ensure you have the following installed:
 
+ • Python 3.6 or higher
 
-# 💻 Launch Your Software Development Career Today!  
+ • Required libraries (see requirements.txt)
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+## Installation
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
+1. Clone the repository:
 
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+``git clone https://github.com/your-username/password-manager.git
+cd password-manager``
+
+2. Install dependencies:
+
+```pip install -r requirements.txt```
+
+3. Run the application:
+
+``python main.py``
+
+## Contact
+
+For questions or suggestions, please contact naraaiseenu2005@gmail.com
